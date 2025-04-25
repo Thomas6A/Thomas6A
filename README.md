@@ -43,7 +43,3 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=Thomas6A&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Thomas6A&theme=radical&no-frame=true&no-bg=true&margin-w=4)
